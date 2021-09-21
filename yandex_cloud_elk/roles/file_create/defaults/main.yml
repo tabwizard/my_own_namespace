@@ -1,0 +1,4 @@
+---
+# defaults file for file_create
+file_create_path: "/tmp/test_file_create_1"
+file_create_content: "Some string content"
